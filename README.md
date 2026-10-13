@@ -10,8 +10,7 @@
 
 ---
 
-**HarvestMind** is a decision intelligence platform designed to empower Malaysian farmers. By grounding advanced AI (ILMU GLM) in real-time market prices, weather forecasts, and news signals, HarvestMind helps farmers answer the critical question: **Should I persevere, pivot, or harvest early?**
-**SparkLab** is a machine-learning
+**SparkLab** is a machine learning assisted by history matching that predicts future data values to help with decision-making and economical practices 
 
 NOTE: You can view Demo video [Available on the 20th October]
 
@@ -106,7 +105,7 @@ docker compose up -d --build
 
 ## 🤝 Contributing
 
-We welcome contributions! Whether it's adding new crop adapters, improving the reasoning prompts, or enhancing the UI, please check out our [AGENTS.md](AGENTS.md) for development guidelines.
+We welcome contributions! Whether it's adding new variable adapters, improving the reasoning prompts, or enhancing the UI, please check out our [AGENTS.md](AGENTS.md) for development guidelines.
 
 ---
 
