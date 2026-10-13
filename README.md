@@ -1,5 +1,6 @@
-# 🌾 SparkLab ExxonMobil Dataworks 2026
-### *Data-Driven Decisions for the Modern Malaysian Farmer*
+# 📈 SparkLab ExxonMobil Dataworks 2026
+### Machine Learning-Assisted History Matching & Production Forecasting
+
 
 [![FastAPI](https://img.shields.io/badge/API-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![Node.js](https://img.shields.io/badge/Proxy-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
@@ -10,8 +11,9 @@
 ---
 
 **HarvestMind** is a decision intelligence platform designed to empower Malaysian farmers. By grounding advanced AI (ILMU GLM) in real-time market prices, weather forecasts, and news signals, HarvestMind helps farmers answer the critical question: **Should I persevere, pivot, or harvest early?**
+**SparkLab** is a machine-learning
 
-NOTE: You can view Demo video [here](https://youtu.be/xF5qp4EL0WA?si=Zowxb9eKPryKcYYI).
+NOTE: You can view Demo video [Available on the 20th October]
 
 NOTE: If you want, you can try a lite version of it on [here](https://sparklab-0yw7.onrender.com).
 
@@ -108,11 +110,20 @@ We welcome contributions! Whether it's adding new crop adapters, improving the r
 
 ---
 
+## Submission
+
+1. Code Repository
+2. Documentation
+3. Power BI Visualization
+4. Video
+
+---
+
 ## 📄 License & Disclaimer
 
-*HarvestMind is a prototype decision-support tool. Agricultural decisions should always be cross-referenced with local agricultural officers and market reality. All predictions are based on available digital signals and AI modeling.*
+*SparkLab is a prototype decision-support tool. Geological decisions should always be cross-referenced with licensed geoscience specialist and market reality. All predictions are based on available digital signals and machine-learning modeling.*
 
 ---
 <p align="center">
-  Built with ❤️ for the farmers of Malaysia.
+  Built with ❤️ for the growth of Malaysia.
 </p>
